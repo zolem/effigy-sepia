@@ -1,0 +1,22 @@
+{
+  "name": "effigy-sepia",
+  "version": "1.0.0",
+  "description": "An effigy plugin to apply the sepia filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolem/effigy-sepia.git"
+  },
+  "keywords": [
+    "effigy"
+  ],
+  "author": "Kathleen Nocchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zolem/effigy-sepia/issues"
+  },
+  "homepage": "https://github.com/zolem/effigy-sepia#readme"
+}
